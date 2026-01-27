@@ -9,3 +9,5 @@ try {
     })
 }
 }
+
+export { asyncHandler }
